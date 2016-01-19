@@ -10,6 +10,7 @@ namespace Mi_primera_PP
     {
         static void Main(string[] args)
         {
+            Console.Readline();
         }
     }
 }
